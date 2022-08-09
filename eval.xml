@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<Evaluacion>
+<Seccion>
+<Titulo><![CDATA["><script>alert(1)</script>]]></Titulo>
+<Encabezado><![CDATA["><script>alert(1)</script>]]></Encabezado>
+<Pie><![CDATA["><script>alert(1)</script>]]></Pie>
+<NotaAprobar>25</NotaAprobar>
+<IdEvaluacion>aaaa</IdEvaluacion>
+<Aleatoria>0</Aleatoria>
+<num_preguntas></num_preguntas>
+<num_intentos>0</num_intentos>
+<Pregunta>
+    <IdPregunta>47</IdPregunta>
+    <TextoPregunta><![CDATA["><script>alert(12344)</script>]]></TextoPregunta>
+    <Respuesta></Respuesta>
+    <Peso>1</Peso>
+    <Imagen></Imagen>
+    <LinkImg>..\..\Skins\Avanzo\file.png</LinkImg>
+    <Explicacion><![CDATA[]]></Explicacion>
+    <SinRespuesta></SinRespuesta>
+</Pregunta>
+</Seccion>
+</Evaluacion>
